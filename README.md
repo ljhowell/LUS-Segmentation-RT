@@ -14,7 +14,7 @@ Deep learning for real-time multi-class segmentation of artefacts in lung ultras
 ## Introduction
 Lung ultrasound (LUS) is a safe and cost-effective modality for assessing lung health. However, interpreting LUS images remains challenging due to its reliance on the interpretation of artefacts including A-lines and B-lines. We propose a U-Net deep learning model for multi-class segmentation of objects (ribs, pleural line) and artefacts (A-lines, B-lines, B-line confluence) in ultrasound images of a lung training phantom, suitable for real-time implementation.
 
-![LUS_BLAS](https://github.com/ljhowell/LUS-Segmentation-RT/assets/55801295/17d3dcda-5f42-4aa8-b2a4-520dbdb1b6c0)
+![LUS_network_diagram](https://github.com/ljhowell/LUS-Segmentation-RT/assets/55801295/ac816aa4-72c5-49ee-8c3d-1c6f215ae3ac)
 
 This GitHub repository includes the code for training and evaluating the model as well as a demonstration of the BLAS - a semi quantitiative metric for assessing the area of the intercostal space occupied by B-lines. The phantom data is available at XXXX. 
 
