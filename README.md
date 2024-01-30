@@ -1,6 +1,4 @@
 # LUS-Segmentation-RT
-Deep learning for real-time multi-class segmentation of artefacts in lung ultrasound (LUS)
-
 ![LUS_examples](https://github.com/ljhowell/LUS-Segmentation-RT/assets/55801295/c52841cd-e465-4658-8c13-89379fcadfca)
 
 ## Citation
