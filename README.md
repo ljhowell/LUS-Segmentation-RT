@@ -6,7 +6,7 @@ If you use this code, please cite the following paper:
 
 TODO: Update citation with DOI etc when paper is published
 ```
-Deep learning for real-time multi-class segmentation of artefacts in lung ultrasound, Lewis Howell, Nicola Ingram, Roger Lapham, Adam Morrell, James R. McLaughlan, Ultrasonics, 2024, XX, XXX, ISSN XXXX, https://doi.org/XXXXXXX.
+Howell, L., Ingram, N., Lapham, R., Morrell, A., & McLaughlan, J. R. (2024). Deep learning for real-time multi-class segmentation of artefacts in lung ultrasound. Ultrasonics, 107251. https://doi.org/10.1016/j.ultras.2024.107251
 ```
 
 ## Introduction
